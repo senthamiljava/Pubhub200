@@ -1,0 +1,27 @@
+{
+  "name": "bookapp-jpa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JananiVelmurugan/bookapp-jpa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JananiVelmurugan/bookapp-jpa/issues"
+  },
+  "homepage": "https://github.com/JananiVelmurugan/bookapp-jpa#readme",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "jquery-slimscroll": "^1.3.8",
+    "metismenu": "^2.7.0"
+  }
+}
